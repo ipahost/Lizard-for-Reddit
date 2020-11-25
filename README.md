@@ -10,10 +10,21 @@ A simple, powerful tool for Reddit
    
     | Application | Version | Lizard |
     | --- | --- | --- |
-    | [Reddit](https://mega.nz/file/hcQ3gIZT#EWdVy9KqfG5FmU4MLe09FnHswwlnEy9BZukcbb1j2ow) | 2020.32.0 | 1.2 |
+    | [Reddit](https://mega.nz/file/wBpHmSBa#C4BJbgyXDVeS2tAfdHkTlg3y6ypZklAMmqYE-xuuDmk) | 2020.32.0 | 1.5 |
 
         
 &nbsp;
+
+***Features***
+
+- [x] Hide awards
+- [x] Show NSFW posts
+- [x] Download the highest quality video with audio
+- [x] Download one or more images in gallery posts
+- [x] Supports video posts with Imgur, gyfcat and more
+- [x] Undo scrolling if top bar is tapped
+- [x] Secure authentication
+
 
 ## How to Download
 
