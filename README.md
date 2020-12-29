@@ -10,7 +10,7 @@ A simple, powerful tool for Reddit
    
     | Application | Version | Lizard |
     | --- | --- | --- |
-    | [Reddit](https://mega.nz/file/wBpHmSBa#C4BJbgyXDVeS2tAfdHkTlg3y6ypZklAMmqYE-xuuDmk) | 2020.32.0 | 1.5 |
+    | [Reddit](https://mega.nz/file/gEZVUKQb#15v_qlGs4RtRVstjgVZl83bKkDS1ESmlZuG2zpdmUpk) | 2020.48.0 | 1.6 |
 
         
 &nbsp;
@@ -19,10 +19,11 @@ A simple, powerful tool for Reddit
 
 - [x] Hide awards
 - [x] Show NSFW posts
+- [x] Remove sponsored posts and comments
 - [x] Download the highest quality video with audio
 - [x] Download one or more images in gallery posts
 - [x] Supports video posts with Imgur, gyfcat and more
-- [x] Undo scrolling if top bar is tapped
+- [x] Undo scrolling if status bar is tapped
 - [x] Secure authentication
 
 
@@ -42,8 +43,4 @@ A simple, powerful tool for Reddit
 
 
 ***Please note that push notifications may not work***
-
-
-### TODO 
-A more thorough guide is needed!  
 
