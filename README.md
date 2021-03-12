@@ -10,7 +10,7 @@ A simple, powerful tool for Reddit
    
     | Application | Version | Lizard |
     | --- | --- | --- |
-    | [Reddit](https://mega.nz/file/5BpEiZCa#zWb5ClLXE64Boq52J_O_PIZBNcA74fnBXaMUFQmkz8w) | 2021.06.0 | 1.7 |
+    | [Reddit](https://mega.nz/file/dBxx3AAb#HxOz1yXU8VjAVMxs9w4-idYXLJfi1PXeTtaxLFiOstc) | 2021.09.0 | 1.8 |
 
         
 &nbsp;
